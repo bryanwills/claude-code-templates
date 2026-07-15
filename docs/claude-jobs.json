@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T04:00:20.623907+00:00",
-  "totalJobs": 100,
+  "lastUpdated": "2026-07-15T04:00:16.847221+00:00",
+  "totalJobs": 102,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -1684,6 +1684,26 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "anth-5197597008",
+      "company": "Anthropic",
+      "position": "Technical Specialist, Claude Code",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "salary": "",
+      "description": "Anthropic launches products at lightning speed and many of them grow at an unprecedented pace, too. For no product is this more true than Claude Code, the fastest-growing software product in history. That said, speed of adoption is not the same as depth of adoption. We’re building a team of...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5197597008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5197597008",
+      "postedAt": "2026-04-23T18:13:14-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
       "id": "anth-5192805008",
       "company": "Anthropic",
       "position": "Applied AI Architect, Commercial",
@@ -1985,6 +2005,28 @@
         "Rust",
         "AWS",
         "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5075093008",
+      "company": "Anthropic",
+      "position": "Strategic Account Executive, Cybersecurity",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "salary": "",
+      "description": "As a Strategic Account Executive focused on cybersecurity, you'll own some of Anthropic's most strategic cybersecurity relationships—companies building the next generation of AI-powered security products. These aren't typical enterprise accounts; they're partners shaping how AI transforms the...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5075093008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5075093008",
+      "postedAt": "2026-01-27T23:00:33-05:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Copilot",
+        "Rails",
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
