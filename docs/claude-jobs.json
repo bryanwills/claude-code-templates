@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-29T04:02:22.182923+00:00",
-  "totalJobs": 93,
+  "lastUpdated": "2026-07-30T04:00:16.852455+00:00",
+  "totalJobs": 100,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -32,6 +32,27 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "hn-48915735",
+      "company": "Portless",
+      "position": "AI Engineer",
+      "location": "Remote (North America)",
+      "remote": true,
+      "salary": "$180k-$230k",
+      "description": "We're a company doing real operational work in e-commerce/3PL logistics. AI usage internally is still basic — decks, spreadsheets, a few people vibe-coding dashboards. No real agentic workflows in production yet. That's what this role is for. You'd be the first dedicated AI engineer here. Two...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48915735",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48915735",
+      "postedAt": "2026-07-15T03:02:35+00:00",
+      "tags": [
+        "TypeScript",
+        "Python",
+        "Claude Code",
+        "Cursor",
+        "Copilot"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "hn-48900749",
@@ -172,6 +193,26 @@
         "PostgreSQL",
         "AWS",
         "Claude Code"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-48819370",
+      "company": "Rabbet (YC S17)",
+      "position": "Software Engineer",
+      "location": "REMOTE (TX, NC, CO)",
+      "remote": true,
+      "salary": "",
+      "description": "Rabbet is hiring Sr. Software Engineers to help us streamline construction finances. We offer cloud-based software for commercial lenders and real estate developers to centralize construction finances, automate administrative tasks, and reduce the time spent managing draws. Backend is in Elixir...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48819370",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48819370",
+      "postedAt": "2026-07-07T15:42:29+00:00",
+      "tags": [
+        "React",
+        "PostgreSQL",
+        "AWS",
+        "GCP"
       ],
       "companyIcon": ""
     },
@@ -481,6 +522,28 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "hn-48748512",
+      "company": "Credo Health",
+      "position": "Full Stack Engineer",
+      "location": "NYC (HYBRID — 1 day/week onsite, otherwise remote)",
+      "remote": true,
+      "salary": "$125k–$175k",
+      "description": "I'm Ketan, Head of Engineering at Credo. We're a seed-stage, HIPAA-compliant health-tech company fixing one of healthcare's dumbest problems: getting the right patient data to the people who need it. Billions of pages of medical records still move by fax every year — causing care delays, admin...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48748512",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48748512",
+      "postedAt": "2026-07-01T15:30:17+00:00",
+      "tags": [
+        "Python",
+        "PostgreSQL",
+        "Cursor",
+        "Copilot",
+        "Django",
+        "Vue.js"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "hn-48747990",
       "company": "We The Flywheel",
       "position": "Software Engineer",
@@ -625,6 +688,23 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "hn-48505744",
+      "company": "Wrenly",
+      "position": "Software Engineer",
+      "location": "REMOTE (Brazil-based only)",
+      "remote": true,
+      "salary": "",
+      "description": "Wrenly is a bootstrapped, profitable HR / people-analytics SaaS. We collect performance and engagement data where teams already work (Slack, MS Teams), and our AI turns it into plans managers actually act on. We go up against Lattice and Culture Amp with a fraction of their headcount. We're hiring...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48505744",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48505744",
+      "postedAt": "2026-06-12T15:55:36+00:00",
+      "tags": [
+        "Go"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "anth-5251609008",
@@ -1111,6 +1191,27 @@
       "companyIcon": ""
     },
     {
+      "id": "hn-48358336",
+      "company": "Kepler",
+      "position": "Full Stack Engineer",
+      "location": "New York, NY (Remote)",
+      "remote": true,
+      "salary": "$230K-$260K",
+      "description": "LLMs hallucinate, so they can't be the thing producing your numbers. In Kepler, the LLM orchestrates (decides what data to gather, what to compute, how to structure the output), but the model never touches the data itself. Every actual value flows through deterministic code pipelines with...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48358336",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48358336",
+      "postedAt": "2026-06-01T15:39:27+00:00",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Rust",
+        "PostgreSQL",
+        "AWS"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "hn-48357754",
       "company": "Go.Shop",
       "position": "Software Engineer",
@@ -1200,6 +1301,25 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "hn-48102189",
+      "company": "Revieve",
+      "position": "Product Engineer",
+      "location": "Remote (Helsinki HQ)",
+      "remote": true,
+      "salary": "",
+      "description": "Revieve builds AI-powered personalization for 120+ beauty brands across 40+ countries — think skin analysis, AR try-on, and recommendation engines used by some of the world's largest retailers. We're profitable, ~30 people, a dozen engineers, millions of end users. We've reorganized around the idea...",
+      "applyUrl": "https://news.ycombinator.com/item?id=48102189",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48102189",
+      "postedAt": "2026-05-11T23:32:00+00:00",
+      "tags": [
+        "React",
+        "TypeScript",
+        "Claude Code"
+      ],
+      "companyIcon": ""
     },
     {
       "id": "hn-48062670",
@@ -1418,6 +1538,26 @@
       "postedAt": "2026-05-01T19:17:50+00:00",
       "tags": [
         "AWS"
+      ],
+      "companyIcon": ""
+    },
+    {
+      "id": "hn-47977662",
+      "company": "Form AI",
+      "position": "AI Engineer",
+      "location": "REMOTE (US) / Austin",
+      "remote": true,
+      "salary": "$150k-$220k",
+      "description": "Form is an AI fluency/integration startup for executives & their teams. We build AI applications tailored to how clients work, and need an engineer to do the building. A typical engagement starts with a client describing a workflow eating their week. You scope alongside them, then build something...",
+      "applyUrl": "https://news.ycombinator.com/item?id=47977662",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=47977662",
+      "postedAt": "2026-05-01T17:40:29+00:00",
+      "tags": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Python"
       ],
       "companyIcon": ""
     },
