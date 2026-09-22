@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-21T08:21:06.215664+00:00",
-  "totalJobs": 92,
+  "lastUpdated": "2026-09-22T08:03:36.311262+00:00",
+  "totalJobs": 91,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -1650,29 +1650,6 @@
         "Rust",
         "Node.js",
         "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5228463008",
-      "company": "Anthropic",
-      "position": "Support Engineer",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "remote": false,
-      "salary": "",
-      "description": "We are hiring Support Engineers to serve as the named, dedicated Product Support point of contact for Anthropic's most strategic enterprise customers. As a Support Engineer, you'll be providing high-touch, deeply contextual support to a defined book of accounts — embedded in your customers' shared...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5228463008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5228463008",
-      "postedAt": "2026-05-22T18:19:40-04:00",
-      "tags": [
-        "JavaScript",
-        "Python",
-        "Rust",
-        "AWS",
-        "GCP",
         "Claude Code",
         "Anthropic"
       ],
