@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-01T09:35:42.871664+00:00",
-  "totalJobs": 93,
+  "lastUpdated": "2026-10-02T09:09:17.018123+00:00",
+  "totalJobs": 94,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -8,6 +8,24 @@
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "hn-49927917",
+      "company": "Workday",
+      "position": "Software Engineer",
+      "location": "AI Creative Technologist",
+      "remote": false,
+      "salary": "",
+      "description": "Workday's in-house creative team already uses AI every day. We built our own agent platform (Creative AI Studio) and now need a hands-on technologist to keep it running well and build what comes next. Half the work is building: new role-specific agents, plus integrations and automations over APIs...",
+      "applyUrl": "https://news.ycombinator.com/item?id=49927917",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com/item?id=49927917",
+      "postedAt": "2026-10-01T22:42:18+00:00",
+      "tags": [
+        "Claude Code",
+        "Cursor"
+      ],
+      "companyIcon": ""
+    },
     {
       "id": "anth-5439830008",
       "company": "Anthropic",
@@ -1607,6 +1625,26 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "anth-5255912008",
+      "company": "Anthropic",
+      "position": "Engineering Manager, Enterprise",
+      "location": "San Francisco, CA",
+      "remote": false,
+      "salary": "",
+      "description": "Enterprise is central to Anthropic's mission. The organizations that could benefit most from Claude are often the most demanding buyers, with rigorous requirements around security, compliance, and control. We believe earning their trust is essential to ensuring AI benefits the world broadly. We're...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5255912008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5255912008",
+      "postedAt": "2026-06-12T23:46:11-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
       "id": "anth-5251609008",
       "company": "Anthropic",
       "position": "Technical Program Manager, Apps Platform",
@@ -1826,26 +1864,6 @@
       "tags": [
         "TypeScript",
         "Python",
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5096878008",
-      "company": "Anthropic",
-      "position": "Research Product Manager, Labs",
-      "location": "San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "As a Research Product Manager for the Labs teams at Anthropic, you will own the ideation and development of new, moonshot products as we advance transformative, safe AI. The Labs team runs Anthropic's most ambitious experiments: new product categories that don't exist yet. The team focuses on...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5096878008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5096878008",
-      "postedAt": "2026-01-26T16:58:37-05:00",
-      "tags": [
         "Rust",
         "AWS",
         "Claude Code",
